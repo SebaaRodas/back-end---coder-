@@ -1,0 +1,12 @@
+[
+  {
+    "titulo": "Cerveza Corona",
+    "precio": 250,
+    "id": 1
+  },
+  {
+    "titulo": "Cerveza Heineken",
+    "precio": 300,
+    "id": 2
+  }
+]
